@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: kube-addon
+data:
+  # property-like keys; each key maps to a simple value
+  sso_url: {{ .Values.sso.url }}
