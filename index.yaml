@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sso:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-22T08:48:26.027369+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 11a89a18b51db9fde48eef5a5a38cc7b47457ee3052662ef29ab3eccb21e82f7
+    name: sso
+    type: application
+    urls:
+    - sso-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-22T08:48:26.020398+02:00"
